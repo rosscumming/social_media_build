@@ -4,7 +4,7 @@ const Spinner = () => {
   return (
     <>
       <i
-        class='fa fa-spinner fa-spin fa-6x'
+        className='fa fa-spinner fa-spin fa-6x'
         style={{
           margin: 'auto',
           display: 'block',
